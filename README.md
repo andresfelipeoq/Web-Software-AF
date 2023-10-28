@@ -12,4 +12,4 @@ Ya sea que sea un estudiante que busca adentrarse en el apasionante mundo de la 
 Únase a nosotros en esta emocionante travesía mientras exploramos las últimas innovaciones, tendencias y desafíos que dan forma a nuestro mundo tecnológico. Le invitamos a sumergirse en "Software & AF" y ser parte de una comunidad apasionada por la excelencia en la ingeniería de sistemas y el desarrollo de software. ¡Bienvenido a nuestro mundo de conocimiento, descubrimiento y crecimiento continuo!
 
 ![Software   AF](https://github.com/andresfelipeoq/Web-Software-AF/assets/105876623/9397ef2e-3727-43dd-820a-c4b2be2f1eca)
-
+.
